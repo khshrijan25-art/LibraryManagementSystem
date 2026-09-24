@@ -1,2 +1,0 @@
-999|Test Book|Test Author|true
-1000|Text Book|Test Author|true
